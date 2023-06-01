@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/testRunner.dir/SampleClient.cpp.o  -o testRunner  ../libMapReduceFramework.a ../lib/libgtest_main.a ../lib/libgtest.a -pthread 

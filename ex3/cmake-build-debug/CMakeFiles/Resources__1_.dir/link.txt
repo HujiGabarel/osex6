@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/Resources__1_.dir/MapReduceFramework.cpp.o CMakeFiles/Resources__1_.dir/Job.cpp.o CMakeFiles/Resources__1_.dir/SampleClient.cpp.o CMakeFiles/Resources__1_.dir/Barrier.cpp.o  -o Resources__1_ 
